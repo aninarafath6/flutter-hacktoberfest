@@ -10,7 +10,12 @@
 https://github.com/aninarafath6/flutter-hacktoberfest.git
 ```
 
-4. Under the ```Apps``` folder, create a folder that bears your ```GitHub username``` .
+4. Under the ```Apps``` folder, create a flutter app with your ```GitHub username``` .
+
+```
+flutter create ${Your Github username} 
+```
+
 
 5. Code the downloaded design using flutter in the folder that you have created.
 
