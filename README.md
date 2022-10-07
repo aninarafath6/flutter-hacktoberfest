@@ -1,4 +1,4 @@
-# Hactoberfest 2k220 flutter Challenge
+# Hactoberfest 2k22 flutter Challenge
 
 1. Get any design from [Dribble Apps](https://dribbble.com/search/shots/popular/mobile?q=apps) 
 
