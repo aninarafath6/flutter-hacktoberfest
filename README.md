@@ -4,8 +4,7 @@
 
 2. Fork this repository ( Click the Fork button in the top right of this page ).
 
-3. Clone your fork into your local machine
-4. 
+3. Clone your fork into your local machine 
 
 ```
 https://github.com/aninarafath6/flutter-hacktoberfest.git
