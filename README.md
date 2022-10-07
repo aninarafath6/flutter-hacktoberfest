@@ -1,6 +1,6 @@
 # Hactoberfest 2k220 flutter Challenge
 
-1. Get any design from [UI design daily] (https://uidesigndaily.com) 
+1. Get any design from [Dribble Apps](https://dribbble.com/search/shots/popular/mobile?q=apps) 
 
 2. Fork this repository ( Click the Fork button in the top right of this page ).
 
