@@ -5,12 +5,13 @@
 2. Fork this repository ( Click the Fork button in the top right of this page ).
 
 3. Clone your fork into your local machine
+4. 
 
 ```
 https://github.com/aninarafath6/flutter-hacktoberfest.git
 ```
 
-4.Under the ```Apps``` folder, create a folder that bears your ```GitHub username``` .
+4. Under the ```Apps``` folder, create a folder that bears your ```GitHub username``` .
 
 5. Code the downloaded design using flutter in the folder that you have created.
 
