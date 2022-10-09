@@ -1,16 +1,13 @@
 # ivanrj7j
 
-A new Flutter project.
+A sample project for [Hacktober Fest](https://github.com/aninarafath6/flutter-hacktoberfest) hosted by [aninarafath6](https://github.com/aninarafath6)
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+![WhatsApp Image 2022-10-09 at 13 03 43](https://user-images.githubusercontent.com/67944313/194744081-b43ed1e4-4bfd-4005-b827-5e7babeb44b3.jpg)
 
-A few resources to get you started if this is your first Flutter project:
+![WhatsApp Image 2022-10-09 at 13 03 43](https://user-images.githubusercontent.com/67944313/194744086-ac11469d-3fdf-43dc-af21-521bbb534219.jpg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Project
+This project was inspired by [this design](https://dribbble.com/shots/18564559-Banking-Mobile-App)
