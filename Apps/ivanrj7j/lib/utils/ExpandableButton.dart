@@ -22,9 +22,7 @@ class _ExpandableButtonState extends State<ExpandableButton> {
       child: ElevatedButton(
           onPressed: (){
             setState(() {
-              if(widget.expandable){
               widget.onclickFunction();
-              }
             });
           },
           style:  ButtonStyle(
@@ -70,9 +68,7 @@ class _ExpandableButtonState extends State<ExpandableButton> {
       child: ElevatedButton(
         onPressed: (){
           setState(() {
-            if (widget.expandable) {
               widget.onclickFunction();
-            }
           });
         },
         style:  ButtonStyle(
