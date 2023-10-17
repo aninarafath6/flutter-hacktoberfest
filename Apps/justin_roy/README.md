@@ -4,11 +4,11 @@ It a simple flutter ui feed social applicaion
 # Images
 
 
-<img width="300"  src="https://github.com/Justin-roy/flutterfeed/blob/main/screenshots/1.jpg">    .
-<img width="300"  src="https://github.com/Justin-roy/flutterfeed/blob/main/screenshots/2.jpg">    .
+<img width="300"  src="https://github.com/Justin-roy/flutter-hacktoberfest/blob/feed-app-ui/Apps/justin_roy/screenshots/1.jpg">    .
+<img width="300"  src="https://github.com/Justin-roy/flutter-hacktoberfest/blob/feed-app-ui/Apps/justin_roy/screenshots/2.jpg">    .
 
-<img width="300"  src="https://github.com/Justin-roy/flutterfeed/blob/main/screenshots/3.jpg">    .
-<img width="300"  src="https://github.com/Justin-roy/flutterfeed/blob/main/screenshots/4.jpg">    .
+<img width="300"  src="https://github.com/Justin-roy/flutter-hacktoberfest/blob/feed-app-ui/Apps/justin_roy/screenshots/3.jpg">    .
+<img width="300"  src="https://github.com/Justin-roy/flutter-hacktoberfest/blob/feed-app-ui/Apps/justin_roy/screenshots/4.jpg">    .
 
 
 A new Flutter project.
